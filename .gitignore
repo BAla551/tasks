@@ -2,3 +2,7 @@
 terraform.tfstate
 terraform.tfstate.backup
 *.ppk
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.ppk
